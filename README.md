@@ -8,3 +8,7 @@ My program will run at the Car Store, a dealership that sells used and new cars.
 Payroll
 
 This application reports the pay that occurred for 1 of 10 weeks of work at a coffee shop. Information is held in several collections. The user will input an int 1 through 10, and paycards for that week can be retrieved from the weeks dictionary. Each paycard represents an employee and the number of hours worked that week.
+
+Seasons
+
+My program takes a date as input and outputs the date's season. The input is a string to represent the month and an integer to represent the day.
